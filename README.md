@@ -9,6 +9,8 @@
 - 📫 How to reach me: **<a href="https:linkedin.com/in/sangamverma" target="_blank">Linkedin</a>**
 - 😄 Pronouns: He/His
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=niteshkr100&label=Profile%20views&color=008000&style=flat" alt="niteshkr100" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/sangamverma/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
